@@ -1,21 +1,4 @@
 ﻿
-
-**INFO-B573 Programming for Science Informatics**
-
-**Final Report**
-
-**A COMPARATIVE STUDY OF BERT AND ROBERTA FOR**
-
-**DETECTING FAKE NEWS**
-
-**Sindhuja Madishetty**
-
-**May 8th ,2021**
-
-
-
-
-
 **1. Introduction**
 
 Fake News is false or misleading information that is presented as news. With advancements in today’s
@@ -107,6 +90,8 @@ speaker, job title, state, party affiliation, statement columns into a single co
 used this column for training. I have dropped the individual columns and retained just the label and
 
 sentence columns. The structure of the data after all pre-processing steps is shown below in Fig 1.2.
+
+![alt text](http://https://github.com/SindhuMadi/FakeNewsDetection/images/Figure1.png)
 
 *Figure 1.2 Dataset Structure after*
 
@@ -453,4 +438,3 @@ f8b21a9b6270
 •
 
 Source Code is submitted as a separate IPYNB file.
-
