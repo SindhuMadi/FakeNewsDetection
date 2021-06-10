@@ -91,7 +91,7 @@ used this column for training. I have dropped the individual columns and retaine
 
 sentence columns. The structure of the data after all pre-processing steps is shown below in Fig 1.2.
 
-![alt text](https://github.com/SindhuMadi/FakeNewsDetection/images/Figure1.png)
+![alt text](https://github.com/SindhuMadi/FakeNewsDetection/tree/main/images)
 
 *Figure 1.2 Dataset Structure after*
 
